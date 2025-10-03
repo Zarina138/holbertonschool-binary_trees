@@ -28,7 +28,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
  *
  * Return: 2 raised to z
  */
-size_t power_of_two(size_t x)
+size_t power_of_two(size_t z)
 {
 	size_t result = 1;
 	size_t i;
